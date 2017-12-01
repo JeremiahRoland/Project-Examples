@@ -1,7 +1,7 @@
 # Project-Examples
 Here is a repository of the large-scale coding projects I have worked on in the past
 
-NOTE: Some programs will lack certain features if run on a machine without an update JRE
+NOTE: Some programs will lack certain features if run on a machine without an updated JRE
 __________________________________________________________________________________________________________________________________________
 Directory:
 
